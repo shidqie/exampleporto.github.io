@@ -1,0 +1,146 @@
+/*Display Mobile*/
+@media only screen and (max-width: 900px) {
+    .header-home h1 {
+        font-size: 30px;
+    }
+
+    .header-about h1,
+    .header-skills h1,
+    .header-project h1,
+    .header-services h1,
+    .header-contact h1 {
+        font-size: 35px;
+    }
+
+    .header-about h4,
+    .header-skills h4,
+    .header-project h4,
+    .header-services h4,
+    .header-contact h4 {
+        font-size: 16px;
+    }
+
+    .col-about-kiri img {
+        width: 340px;
+    }
+
+    .col-about-kanan p {
+        font-size: 14px;
+    }
+
+    .col-about-kanan h1 {
+        font-size: 18px;
+    }
+
+    .btn-about a {
+        font-size: 14px;
+    }
+
+    .btn-about,
+    .detail {
+        margin-top: -10px;
+    }
+
+    .container-box1,
+    .container-box3 {
+        width: 220px;
+        height: 250px;
+    }
+
+    .container-box2 {
+        width: 220px;
+        height: 450px;
+    }
+
+    .header-skill {
+        font-size: 16px;
+    }
+
+    .nama,
+    .skill-nomor {
+        font-size: 12px;
+    }
+
+    .persen {
+        width: 100px;
+        height: 10px;
+    }
+
+    .col-project article,
+    .col-portfolio img {
+        max-width: 220px;
+    }
+
+    .col-project article h1 {
+        font-size: 20px;
+    }
+
+    .col-project p {
+        font-size: 14px;
+    }
+
+    .btn-pro {
+        margin-top: 12px;
+    }
+
+    .btn-pro a {
+        font-size: 12px;
+    }
+
+    .container-box {
+        width: 220px;
+        height: 300px;
+    }
+
+    .text-services h1 {
+        font-size: 20px;
+    }
+
+    .text-services h4 {
+        font-size: 14px;
+    }
+
+    .btn-ser a {
+        font-size: 12px;
+    }
+
+    .input1,
+    .input2 {
+        min-width: 200px;
+        min-height: 40px;
+    }
+
+    .send-input {
+        min-width: 200px;
+        min-height: 150px;
+    }
+
+    .label,
+    .textarea {
+        font-size: 14px;
+    }
+
+    ::placeholder {
+        font-size: 10px;
+    }
+
+    .btn-form1,
+    .btn-form2 {
+        font-size: 12px;
+        padding: 2px 16px;
+    }
+
+    .social-icon {
+        width: 40px;
+        height: 40px;
+    }
+
+    .logo {
+        width: 28px;
+        height: 28px;
+    }
+
+    .developer {
+        font-size: 14px;
+    }
+}
